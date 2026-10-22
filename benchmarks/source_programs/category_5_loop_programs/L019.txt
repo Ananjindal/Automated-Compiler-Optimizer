@@ -1,0 +1,6 @@
+read(n);
+value = n;
+while (value > 0) {
+    value = value - 1;
+}
+print(value);

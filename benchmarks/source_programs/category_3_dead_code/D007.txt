@@ -1,0 +1,5 @@
+read(x);
+a = 2 + 3;
+b = a * 4;
+c = b + 1;
+print(a);

@@ -1,0 +1,6 @@
+category,programs,average_original_instructions,average_optimized_instructions,average_instruction_reduction_percent,average_original_arithmetic_operations,average_optimized_arithmetic_operations,average_original_temporaries,average_optimized_temporaries
+Algebraic Redundancy,20,5.1,4.3,15.834,1.55,0.05,1.55,1.15
+Common Subexpressions,20,8.35,6.15,25.352,2.65,1.15,2.65,2.05
+Constant Expressions,20,4.9,1.0,79.286,2.05,0.0,2.05,0.0
+Dead Code,20,5.75,2.5,54.334,1.5,0.25,1.5,0.25
+Loop-Based Programs,20,15.05,14.55,3.067,2.45,2.1,2.45,2.25

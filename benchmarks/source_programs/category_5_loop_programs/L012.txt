@@ -1,0 +1,8 @@
+read(n);
+sum = 0;
+dead = 10;
+for (i = 0; i < n; i = i + 1) {
+    sum = sum + i;
+    dead = dead + 1;
+}
+print(sum);

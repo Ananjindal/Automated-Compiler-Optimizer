@@ -1,0 +1,22 @@
+{
+  "programs": 100,
+  "unique_test_cases": 420,
+  "passed_tests": 420,
+  "failed_tests": 0,
+  "pass_rate_percent": 100.0,
+  "average_original_instructions_per_program": 7.83,
+  "average_optimized_instructions_per_program": 5.7,
+  "average_instruction_reduction_percent": 35.574,
+  "total_original_arithmetic_operations": 204,
+  "total_optimized_arithmetic_operations": 71,
+  "arithmetic_operation_reduction_percent": 65.196,
+  "optimizer_firings": {
+    "Constant Folding": 54,
+    "Constant Propagation": 120,
+    "Dead Code Elimination": 213,
+    "Strength Reduction": 12,
+    "Algebraic Simplification": 30,
+    "Common Subexpression Elimination": 22
+  },
+  "note": "Arithmetic operation counts depend on the corrected arithmetic_count() function in evaluate_dataset.py. Timing measurements depend on the machine and runtime environment."
+}

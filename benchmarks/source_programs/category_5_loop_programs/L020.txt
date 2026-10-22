@@ -1,0 +1,6 @@
+read(n);
+sum = 10;
+for (i = 0; i < n; i = i + 1) {
+    sum = sum + 4 * 2;
+}
+print(sum);

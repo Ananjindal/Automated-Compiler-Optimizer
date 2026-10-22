@@ -1,0 +1,4 @@
+read(x);
+a = x - x;
+b = a + 9;
+print(b);

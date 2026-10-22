@@ -1,0 +1,4 @@
+read(x);
+y = x + 4;
+z = 100;
+print(y);

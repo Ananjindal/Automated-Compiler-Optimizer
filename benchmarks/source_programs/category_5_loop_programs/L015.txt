@@ -1,0 +1,7 @@
+read(n);
+base = 5;
+sum = 0;
+for (i = 0; i < n; i = i + 1) {
+    sum = sum + base;
+}
+print(sum);
